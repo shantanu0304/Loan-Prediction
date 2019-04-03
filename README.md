@@ -8,7 +8,7 @@ Jupyter Notebook – 5.7.4
 * Analyzing: Numpy, Pandas, Sci-kit Learn
 * Visualization: Matplotlib, Seaborn
 
-Dataset : https://www.kaggle.com/c/titanic
+Dataset : Available on analytics vidhya
 
 ## Classifiers used – 
 * Logistic Regression   (accuracy achieved -> 83.24% )
