@@ -1,5 +1,5 @@
 # Loan-Prediction
-In this problem my task is to predict whether the loan is accepted or rejected on the bases of given dataset after analyzing, cleaning, preprocessing and preparing it for model building.
+In this problem, my task is to predict whether the loan is accepted or rejected on the bases of given dataset after analyzing, cleaning, preprocessing and preparing it for model building.
 ## Tools used -
 Python – 3.7.2
 Anaconda Navigator – 1.9.6 
